@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "public",
+    "password": "public",
+    "database": "burgers_db",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "public",
+    "password": "public",
+    "database": "burgers_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "b8f4de70ec39ca",
+    "password": "485d0c60",
+    "database": "heroku_aeba885553ce938",
+    "host": "us-cdbr-iron-east-04.cleardb.net",
+    "dialect": "mysql"
+  }
+}
